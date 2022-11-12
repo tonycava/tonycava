@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony CAVAGNÉ</h1>
 <h3 align="center">A passionate junior developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonycava&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonycava&label=Profile%20views&color=0e75b6&style=flat" alt="tonycava" /> </p>
 
 - 🔭 I’m currently working on an online discution app
 
@@ -127,8 +127,8 @@
 
 </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tonycava&&theme=xcode)](https://github.com/rishavchanda)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tonycava&&theme=xcode)](https://github.com/tonycava)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonycava&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonycava&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tonycava" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonycava&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonycava&show_icons=true&locale=en&theme=tokyonight" alt="tonycava" /></p>
