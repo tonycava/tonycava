@@ -85,6 +85,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 </a>
 
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://camo.githubusercontent.com/c44dc4cdc740b9d3795f93c2ee35f42bbe2701318abd87ecb0e0e797c5239f84/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6573746a732f6e6573746a732d706c61696e2e737667" alt="nestjs" width="40" height="40"/> 
+</a>
+
+<a href="https://vitejs.dev/">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" width="40" height="40" alt="vite">
+</a>
+
+<a href="https://kit.svelte.dev/">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" width="40" height="40" alt="sveltekit">
+</a>
+
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 </a>
