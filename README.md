@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an online discution app
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps** and **Web Development**
 
 - 📫 How to reach me **anthony.cavagne@ynov.com**
 
