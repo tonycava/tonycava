@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps** and **Web Development**
 
-- 📫 How to reach me : **anthony.cavagne@ynov.com**
+- 📫 How to reach me **anthony.cavagne@ynov.com**
 
 - ⚡ Fun fact **I love everything**
 
