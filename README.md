@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonycava&label=Profile%20views&color=0e75b6&style=flat" alt="tonycava" /> </p>
 
-- 🔭 I’m currently working on an K8s / Cloud DevOps (AWS) and Web development project (Portfolio)
+- 🔭 I’m currently working on an K8s / Cloud DevOps (AWS) and Web development project in SvelteKit
 
 - 🌱 I’m currently learning **DevOps** and **Web Development**
 
-- 📫 How to reach me **anthony.cavagne@ynov.com**
+- 📫 How to reach me : **anthony.cavagne@ynov.com**
 
-- ⚡ Fun fact **I am cool**
+- ⚡ Fun fact **I love everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
