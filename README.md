@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonycava&label=Profile%20views&color=0e75b6&style=flat" alt="tonycava" /> </p>
 
-- 🔭 I’m currently working on an online discution app
+- 🔭 I’m currently working on an K8s / Cloud DevOps (AWS) and Web development project (Portfolio)
 
 - 🌱 I’m currently learning **DevOps** and **Web Development**
 
